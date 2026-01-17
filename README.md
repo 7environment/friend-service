@@ -30,8 +30,8 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/your-username/roblox-auto-friend.git
-   cd roblox-auto-friend
+   git clone https://github.com/7environment/friend-service.git
+   cd friend-service
    ```
 
 2. **Установите зависимости**
